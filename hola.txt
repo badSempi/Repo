@@ -1,1 +1,10 @@
 hola que tal
+hola que tal
+hola que tal
+hola que tal
+ -m hola
+[master (root-commit) c3f68a6] hola
+ 2 files changed, 1 insertion(+)
+ create mode 100644 hoja26.pdf
+ create mode 100644 hola.txt
+
